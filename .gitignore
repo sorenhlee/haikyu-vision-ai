@@ -1,0 +1,16 @@
+venv/
+.venv/
+*.mp4
+*.csv
+__pycache__/
+*.pyc
+.env
+output/
+output_test/
+*.onnx
+*.bin
+*.xml
+*.pt
+*.pth
+runs/
+*.egg-info/
