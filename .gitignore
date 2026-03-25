@@ -14,3 +14,4 @@ output_test/
 *.pth
 runs/
 *.egg-info/
+.streamlit/secrets.toml
