@@ -21,8 +21,16 @@ uploaded = st.file_uploader("Upload practice video (.mp4)", type=["mp4"])
 
 if uploaded:
     st.video(uploaded)
-    st.info("Verifying 6v6 session via Gemini...")
-    # Person C plugs in here
+    with st.spinner("Sending to processing pipeline..."):
+        response = requests.post(
+            f"{TUNNEL_URL}/process",
+            headers={"X-Secret-Token": SECRET_TOKEN},
+            files={"video": uploaded.getvalue()}
+        )
+        if response.status_code == 200:
+            st.success("Pipeline triggered!")
+        else:
+            st.error("Backend unreachable.")
 
 st.sidebar.header("Search Plays")
 play_type = st.sidebar.selectbox("Play Type", ["All", "Attack", "Set", "Dig", "Serve", "Block"])
