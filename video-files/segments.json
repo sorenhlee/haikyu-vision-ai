@@ -1,0 +1,1796 @@
+{
+  "video": "2025.11.10-06.20-709201.mp4",
+  "total_frames_scanned": 287,
+  "6v6_segments": [
+    {
+      "start_sec": 1710,
+      "end_sec": 1800,
+      "start_fmt": "28:30",
+      "end_fmt": "30:00"
+    },
+    {
+      "start_sec": 3300,
+      "end_sec": 3600,
+      "start_fmt": "55:00",
+      "end_fmt": "60:00"
+    },
+    {
+      "start_sec": 3600,
+      "end_sec": 3660,
+      "start_fmt": "60:00",
+      "end_fmt": "61:00"
+    },
+    {
+      "start_sec": 3750,
+      "end_sec": 3900,
+      "start_fmt": "62:30",
+      "end_fmt": "65:00"
+    },
+    {
+      "start_sec": 3900,
+      "end_sec": 3990,
+      "start_fmt": "65:00",
+      "end_fmt": "66:30"
+    },
+    {
+      "start_sec": 4020,
+      "end_sec": 4200,
+      "start_fmt": "67:00",
+      "end_fmt": "70:00"
+    },
+    {
+      "start_sec": 4200,
+      "end_sec": 4350,
+      "start_fmt": "70:00",
+      "end_fmt": "72:30"
+    },
+    {
+      "start_sec": 4860,
+      "end_sec": 5400,
+      "start_fmt": "81:00",
+      "end_fmt": "90:00"
+    },
+    {
+      "start_sec": 5670,
+      "end_sec": 6270,
+      "start_fmt": "94:30",
+      "end_fmt": "104:30"
+    },
+    {
+      "start_sec": 6690,
+      "end_sec": 6900,
+      "start_fmt": "111:30",
+      "end_fmt": "115:00"
+    },
+    {
+      "start_sec": 7650,
+      "end_sec": 7710,
+      "start_fmt": "127:30",
+      "end_fmt": "128:30"
+    }
+  ],
+  "raw_results": [
+    {
+      "frame_index": 0,
+      "timestamp_sec": 0,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 30,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 60,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 90,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 120,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 150,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 180,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 210,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 240,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 270,
+      "is_6v6": false,
+      "reason": "empty court, no players present"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 300,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 330,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 360,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 390,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 420,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 450,
+      "is_6v6": false,
+      "reason": "small group drill"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 480,
+      "is_6v6": false,
+      "reason": "warmup/drills, uneven players"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 510,
+      "is_6v6": false,
+      "reason": "warmup/drills, not game-like play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 540,
+      "is_6v6": false,
+      "reason": "warmup/drills, not game-like play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 570,
+      "is_6v6": false,
+      "reason": "warmup/drills, not game-like play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 600,
+      "is_6v6": false,
+      "reason": "conditioning drills"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 630,
+      "is_6v6": false,
+      "reason": "conditioning drills"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 660,
+      "is_6v6": false,
+      "reason": "stretching/warmup"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 690,
+      "is_6v6": false,
+      "reason": "small group drills"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 720,
+      "is_6v6": false,
+      "reason": "drills/conditioning"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 750,
+      "is_6v6": false,
+      "reason": "drills/conditioning"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 780,
+      "is_6v6": false,
+      "reason": "drills/conditioning"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 810,
+      "is_6v6": false,
+      "reason": "stretching/warmup"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 840,
+      "is_6v6": false,
+      "reason": "stretching/warmup"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 870,
+      "is_6v6": false,
+      "reason": "stretching/warmup"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 900,
+      "is_6v6": false,
+      "reason": "warmup and individual drills"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 930,
+      "is_6v6": false,
+      "reason": "warmup and individual drills"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 960,
+      "is_6v6": false,
+      "reason": "structured warmup and drills"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 990,
+      "is_6v6": false,
+      "reason": "dynamic warmup and drills"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 1020,
+      "is_6v6": false,
+      "reason": "dynamic drills and movement"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 1050,
+      "is_6v6": false,
+      "reason": "huddle/break for instructions"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 1080,
+      "is_6v6": false,
+      "reason": "physical conditioning drills"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 1110,
+      "is_6v6": false,
+      "reason": "drills and gathering around equipment"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 1140,
+      "is_6v6": false,
+      "reason": "organized drills with ball carts"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 1170,
+      "is_6v6": false,
+      "reason": "organized drills with ball carts"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 1200,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 1230,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 1260,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 1290,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 1320,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 1350,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 1380,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 1410,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 1440,
+      "is_6v6": false,
+      "reason": "drill, not game-like play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 1470,
+      "is_6v6": false,
+      "reason": "drill, not game-like play; fewer players on court"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 1500,
+      "is_6v6": false,
+      "reason": "multiple drills and scattered players"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 1530,
+      "is_6v6": false,
+      "reason": "multiple drills and scattered players"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 1560,
+      "is_6v6": false,
+      "reason": "drills with players spread out, not game-like formation"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 1590,
+      "is_6v6": false,
+      "reason": "drills with hitting practice, not continuous game play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 1620,
+      "is_6v6": false,
+      "reason": "drills, not active 6v6 game with set positions"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 1650,
+      "is_6v6": false,
+      "reason": "coach-led drills with ball cart present, players not in game positions"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 1680,
+      "is_6v6": false,
+      "reason": "team huddle or instruction session"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 1710,
+      "is_6v6": false,
+      "reason": "team huddle or instruction, transitioning"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 1740,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with players in active positions"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 1770,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with players in active positions and ball in play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 1800,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 1830,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 1860,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 1890,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 1920,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 1950,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 1980,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 2010,
+      "is_6v6": false,
+      "reason": "players engaged in drills or specific practice setups, not full 6v6 game play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 2040,
+      "is_6v6": false,
+      "reason": "break or transition, court is mostly empty of active play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 2070,
+      "is_6v6": false,
+      "reason": "players gathered in a huddle or for instruction, not active game play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 2100,
+      "is_6v6": false,
+      "reason": "Players in a huddle/break, not active 6v6 play."
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 2130,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills (serving/passing), not organized 6v6 play."
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 2160,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills, not organized 6v6 play with full teams."
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 2190,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills (e.g., serving, passing), not full 6v6 game play."
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 2220,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills or small group play, not a full 6v6 scrimmage."
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 2250,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills or small group play, not a full 6v6 scrimmage."
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 2280,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills, with individuals hitting or serving, not 6v6 game play."
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 2310,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills, not organized 6v6 play with full teams."
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 2340,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills (serving/receiving), not organized 6v6 play."
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 2370,
+      "is_6v6": false,
+      "reason": "Players are engaged in drills (serving/receiving), not organized 6v6 play."
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 2400,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 2430,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 2460,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 2490,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 2520,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 2550,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 2580,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 2610,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 2640,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 2670,
+      "is_6v6": false,
+      "reason": "players engaged in various drills across multiple nets, not full 6v6 play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 2700,
+      "is_6v6": false,
+      "reason": "multiple small group drills across the court"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 2730,
+      "is_6v6": false,
+      "reason": "small group passing and hitting drills"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 2760,
+      "is_6v6": false,
+      "reason": "serving/hitting drills with players scattered"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 2790,
+      "is_6v6": false,
+      "reason": "serving/receiving drills, not full 6v6 setup"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 2820,
+      "is_6v6": false,
+      "reason": "small group drills with players scattered"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 2850,
+      "is_6v6": false,
+      "reason": "serving drills with players not in 6v6 formation"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 2880,
+      "is_6v6": false,
+      "reason": "serving drills, still not a full 6v6 game"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 2910,
+      "is_6v6": false,
+      "reason": "game-like drill with fewer than 6 players per side"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 2940,
+      "is_6v6": false,
+      "reason": "game-like drill with fewer than 6 players per side"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 2970,
+      "is_6v6": false,
+      "reason": "game-like drill with fewer than 6 players per side"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 3000,
+      "is_6v6": false,
+      "reason": "Warmup drills, players scattered and not in game-like 6v6 positions."
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 3030,
+      "is_6v6": false,
+      "reason": "Warmup drills, players scattered and not in game-like 6v6 positions."
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 3060,
+      "is_6v6": false,
+      "reason": "Players gathered in a huddle/break on the near side of the court."
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 3090,
+      "is_6v6": false,
+      "reason": "Players gathered in a huddle/break on the near side of the court."
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 3120,
+      "is_6v6": false,
+      "reason": "Players gathered in a huddle/break on the near side of the court."
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 3150,
+      "is_6v6": false,
+      "reason": "Players gathered in a huddle/break on the near side of the court."
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 3180,
+      "is_6v6": false,
+      "reason": "Players gathered in a huddle/break on the near side of the court."
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 3210,
+      "is_6v6": false,
+      "reason": "Players transitioning from a huddle, not yet in active 6v6 game play. Scattered on court."
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 3240,
+      "is_6v6": false,
+      "reason": "Structured drill, not 6v6 game play. Coach on court with players, and players not in consistent 6v6 game positions on both sides."
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 3270,
+      "is_6v6": false,
+      "reason": "Structured drill, not 6v6 game play. Players on near side not in consistent 6v6 game positions."
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 3300,
+      "is_6v6": false,
+      "reason": "players setting up or engaged in a specific drill, not active 6v6 game play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 3330,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 3360,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 3390,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 3420,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 3450,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 3480,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 3510,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 3540,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 3570,
+      "is_6v6": true,
+      "reason": "full court 6v6 game play with both sides populated"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 3600,
+      "is_6v6": false,
+      "reason": "Drill setup or instruction, not active game play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 3630,
+      "is_6v6": true,
+      "reason": "Full court 6v6 game play in progress"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 3660,
+      "is_6v6": false,
+      "reason": "Pause in play, players standing around"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 3690,
+      "is_6v6": false,
+      "reason": "Players standing around, not in active game formation"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 3720,
+      "is_6v6": false,
+      "reason": "Break or transition, players not in active game formation"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 3750,
+      "is_6v6": false,
+      "reason": "Drill or break, not full game play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 3780,
+      "is_6v6": true,
+      "reason": "Full court 6v6 game play in progress"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 3810,
+      "is_6v6": true,
+      "reason": "Full court 6v6 game play in progress"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 3840,
+      "is_6v6": true,
+      "reason": "Full court 6v6 game play in progress"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 3870,
+      "is_6v6": true,
+      "reason": "Full court 6v6 game play in progress"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 3900,
+      "is_6v6": false,
+      "reason": "drill setup or transition, not a live 6v6 rally"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 3930,
+      "is_6v6": true,
+      "reason": "full court 6v6 play with ball in action"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 3960,
+      "is_6v6": true,
+      "reason": "full court 6v6 play with ball in action"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 3990,
+      "is_6v6": false,
+      "reason": "structured drill, players not in active rally positions"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 4020,
+      "is_6v6": false,
+      "reason": "structured drill, players not in active rally positions"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 4050,
+      "is_6v6": true,
+      "reason": "full court 6v6 play with ball in action"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 4080,
+      "is_6v6": true,
+      "reason": "full court 6v6 play with ball in action"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 4110,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, serve initiation"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 4140,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, serve in progress"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 4170,
+      "is_6v6": true,
+      "reason": "full court 6v6 play with ball in action"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 4200,
+      "is_6v6": false,
+      "reason": "transition or warm-up, not full 6v6 play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 4230,
+      "is_6v6": true,
+      "reason": "active full court 6v6 play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 4260,
+      "is_6v6": true,
+      "reason": "active full court 6v6 play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 4290,
+      "is_6v6": true,
+      "reason": "active full court 6v6 play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 4320,
+      "is_6v6": true,
+      "reason": "active full court 6v6 play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 4350,
+      "is_6v6": false,
+      "reason": "team huddle/break, court not populated for play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 4380,
+      "is_6v6": false,
+      "reason": "team huddle/break, court not populated for play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 4410,
+      "is_6v6": false,
+      "reason": "team huddle/break, court not populated for play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 4440,
+      "is_6v6": false,
+      "reason": "break or transition, court largely empty"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 4470,
+      "is_6v6": false,
+      "reason": "drills or ball collection, not 6v6 game play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 4500,
+      "is_6v6": false,
+      "reason": "warm-up or transition, players scattered, not in game-like positions"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 4530,
+      "is_6v6": false,
+      "reason": "warm-up or transition, players scattered, not in game-like positions"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 4560,
+      "is_6v6": false,
+      "reason": "hitting/setting drill, not a full 6v6 game setup"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 4590,
+      "is_6v6": false,
+      "reason": "break or transition, players standing around, court not fully populated for game play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 4620,
+      "is_6v6": false,
+      "reason": "break or small group drill, court not fully populated for game play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 4650,
+      "is_6v6": false,
+      "reason": "break, court largely empty"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 4680,
+      "is_6v6": false,
+      "reason": "break, court largely empty"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 4710,
+      "is_6v6": false,
+      "reason": "huddle or break, players gathered off-court"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 4740,
+      "is_6v6": false,
+      "reason": "huddle or break, players gathered off-court"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 4770,
+      "is_6v6": false,
+      "reason": "huddle or break, players gathered off-court"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 4800,
+      "is_6v6": false,
+      "reason": "players gathered for a huddle or break"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 4830,
+      "is_6v6": false,
+      "reason": "players gathered for a huddle or break"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 4860,
+      "is_6v6": false,
+      "reason": "transitioning into a drill or play, not full 6v6 game yet"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 4890,
+      "is_6v6": true,
+      "reason": "full court 6v6 play in progress with a ball in air"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 4920,
+      "is_6v6": true,
+      "reason": "full court 6v6 play in progress with players in active positions"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 4950,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players are in game positions, coach providing instructions during play/between rallies"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 4980,
+      "is_6v6": true,
+      "reason": "full court 6v6 play in progress, players in active stances"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 5010,
+      "is_6v6": true,
+      "reason": "full court 6v6 play in progress with player in mid-action"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 5040,
+      "is_6v6": true,
+      "reason": "full court 6v6 play in progress, players in serve reception/defensive positions"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 5070,
+      "is_6v6": true,
+      "reason": "full court 6v6 play in progress with a ball over the net and active players"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 5100,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 5130,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 5160,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 5190,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 5220,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 5250,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 5280,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 5310,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 5340,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 5370,
+      "is_6v6": true,
+      "reason": "full court 6v6 active play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 5400,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 5430,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 5460,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 5490,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 5520,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 5550,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 5580,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 5610,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 5640,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 5670,
+      "is_6v6": false,
+      "reason": "drills, one side of court has fewer than 6 players in active play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 5700,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 5730,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 5760,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 5790,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions, one player attacking"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 5820,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 5850,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 5880,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions, one player attacking"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 5910,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 5940,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions, one player attacking"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 5970,
+      "is_6v6": true,
+      "reason": "full court 6v6 play, players in active positions"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 6000,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 6030,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 6060,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 6090,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 6120,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 6150,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 6180,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 6210,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 6240,
+      "is_6v6": true,
+      "reason": "full court 6v6 game-like play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 6270,
+      "is_6v6": false,
+      "reason": "break or small group activity"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 6300,
+      "is_6v6": false,
+      "reason": "huddle/instruction"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 6330,
+      "is_6v6": false,
+      "reason": "individual drills/small groups"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 6360,
+      "is_6v6": false,
+      "reason": "drills, not full 6v6 setup"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 6390,
+      "is_6v6": false,
+      "reason": "drills, not full 6v6 setup"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 6420,
+      "is_6v6": false,
+      "reason": "drills, not full 6v6 setup"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 6450,
+      "is_6v6": false,
+      "reason": "break/setting up for drill"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 6480,
+      "is_6v6": false,
+      "reason": "drills, not organized 6v6 game"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 6510,
+      "is_6v6": false,
+      "reason": "huddle/instruction"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 6540,
+      "is_6v6": false,
+      "reason": "huddle/instruction"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 6570,
+      "is_6v6": false,
+      "reason": "huddle/instruction"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 6600,
+      "is_6v6": false,
+      "reason": "Players in a huddle/break"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 6630,
+      "is_6v6": false,
+      "reason": "Players in a huddle/break"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 6660,
+      "is_6v6": false,
+      "reason": "Players transitioning or in a drill, not active 6v6 play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 6690,
+      "is_6v6": false,
+      "reason": "Multiple small group drills or individual skill work"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 6720,
+      "is_6v6": true,
+      "reason": "Full court 6v6 play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 6750,
+      "is_6v6": true,
+      "reason": "Full court 6v6 play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 6780,
+      "is_6v6": true,
+      "reason": "Full court 6v6 play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 6810,
+      "is_6v6": true,
+      "reason": "Full court 6v6 play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 6840,
+      "is_6v6": true,
+      "reason": "Full court 6v6 play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 6870,
+      "is_6v6": true,
+      "reason": "Full court 6v6 play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 6900,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 6930,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 6960,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 6990,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 7020,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 7050,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 7080,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 7110,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 7140,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 7170,
+      "is_6v6": false,
+      "reason": "players engaged in drills, not active 6v6 game play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 7200,
+      "is_6v6": false,
+      "reason": "players engaged in a small group drill, not 6v6 game play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 7230,
+      "is_6v6": false,
+      "reason": "players engaged in a small group drill, not 6v6 game play"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 7260,
+      "is_6v6": false,
+      "reason": "players engaged in a small group drill, not 6v6 game play"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 7290,
+      "is_6v6": false,
+      "reason": "players engaged in a small group drill, not 6v6 game play"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 7320,
+      "is_6v6": false,
+      "reason": "players engaged in a small group drill, not 6v6 game play"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 7350,
+      "is_6v6": false,
+      "reason": "players engaged in a small group drill, not 6v6 game play"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 7380,
+      "is_6v6": false,
+      "reason": "court is mostly empty or players are transitioning, not 6v6 play"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 7410,
+      "is_6v6": false,
+      "reason": "players are in a huddle off-court, not engaged in 6v6 play"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 7440,
+      "is_6v6": false,
+      "reason": "players are in a huddle off-court, not engaged in 6v6 play"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 7470,
+      "is_6v6": false,
+      "reason": "players are in a huddle off-court, not engaged in 6v6 play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 7500,
+      "is_6v6": false,
+      "reason": "huddle or instructions, not active play"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 7530,
+      "is_6v6": false,
+      "reason": "drill or transition, coach in court"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 7560,
+      "is_6v6": false,
+      "reason": "drill setup, coach in court"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 7590,
+      "is_6v6": false,
+      "reason": "drill or instruction, coach in court"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 7620,
+      "is_6v6": false,
+      "reason": "drill or warm-up, not active 6v6"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 7650,
+      "is_6v6": false,
+      "reason": "break in play or setting up, player talking over net"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 7680,
+      "is_6v6": true,
+      "reason": "full court 6v6 play with players in game positions"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 7710,
+      "is_6v6": false,
+      "reason": "break or end of session, court mostly empty"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 7740,
+      "is_6v6": false,
+      "reason": "court almost empty, end of session"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 7770,
+      "is_6v6": false,
+      "reason": "court almost empty, end of session"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 7800,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 7830,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 7860,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 7890,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 7920,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 7950,
+      "is_6v6": false,
+      "reason": "single person on court, no practice setup"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 7980,
+      "is_6v6": false,
+      "reason": "single person on court, no practice setup"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 8010,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 8040,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 8070,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 8100,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 8130,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 8160,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 8190,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 8220,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 8250,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 8280,
+      "is_6v6": false,
+      "reason": "single player on court"
+    },
+    {
+      "frame_index": 7,
+      "timestamp_sec": 8310,
+      "is_6v6": false,
+      "reason": "single player on court"
+    },
+    {
+      "frame_index": 8,
+      "timestamp_sec": 8340,
+      "is_6v6": false,
+      "reason": "empty court"
+    },
+    {
+      "frame_index": 9,
+      "timestamp_sec": 8370,
+      "is_6v6": false,
+      "reason": "small group of players, not 6v6 play"
+    },
+    {
+      "frame_index": 0,
+      "timestamp_sec": 8400,
+      "is_6v6": false,
+      "reason": "court not populated, individual present"
+    },
+    {
+      "frame_index": 1,
+      "timestamp_sec": 8430,
+      "is_6v6": false,
+      "reason": "court not populated, individual present"
+    },
+    {
+      "frame_index": 2,
+      "timestamp_sec": 8460,
+      "is_6v6": false,
+      "reason": "court not populated, individual present"
+    },
+    {
+      "frame_index": 3,
+      "timestamp_sec": 8490,
+      "is_6v6": false,
+      "reason": "small group setting up net"
+    },
+    {
+      "frame_index": 4,
+      "timestamp_sec": 8520,
+      "is_6v6": false,
+      "reason": "small group setting up net"
+    },
+    {
+      "frame_index": 5,
+      "timestamp_sec": 8550,
+      "is_6v6": false,
+      "reason": "small group setting up net"
+    },
+    {
+      "frame_index": 6,
+      "timestamp_sec": 8580,
+      "is_6v6": false,
+      "reason": "small group setting up net"
+    }
+  ]
+}
